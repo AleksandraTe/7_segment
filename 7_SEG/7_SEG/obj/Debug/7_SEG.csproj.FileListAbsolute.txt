@@ -1,0 +1,8 @@
+C:\Users\olate\source\repos\7_SEG\7_SEG\obj\Debug\7_SEG.csproj.GenerateResource.cache
+C:\Users\olate\source\repos\7_SEG\7_SEG\obj\Debug\7_SEG.csproj.CoreCompileInputs.cache
+C:\Users\olate\source\repos\7_SEG\7_SEG\bin\Debug\7_SEG.dll
+C:\Users\olate\source\repos\7_SEG\7_SEG\bin\Debug\7_SEG.pdb
+C:\Users\olate\source\repos\7_SEG\7_SEG\obj\Debug\7_SEG.dll
+C:\Users\olate\source\repos\7_SEG\7_SEG\obj\Debug\7_SEG.pdb
+C:\Users\olate\source\repos\7_SEG\7_SEG\obj\Debug\Wysw7seg._7segment.resources
+C:\Users\olate\source\repos\7_SEG\7_SEG\obj\Debug\7_SEG.csprojAssemblyReference.cache
