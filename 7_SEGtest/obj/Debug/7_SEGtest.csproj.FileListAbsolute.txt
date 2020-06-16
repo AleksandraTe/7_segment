@@ -1,0 +1,13 @@
+C:\Users\olate\source\repos\7_SEGtest\7_SEGtest\bin\Debug\7_SEGtest.exe.config
+C:\Users\olate\source\repos\7_SEGtest\7_SEGtest\bin\Debug\7_SEGtest.exe
+C:\Users\olate\source\repos\7_SEGtest\7_SEGtest\bin\Debug\7_SEGtest.pdb
+C:\Users\olate\source\repos\7_SEGtest\7_SEGtest\bin\Debug\7_SEG.dll
+C:\Users\olate\source\repos\7_SEGtest\7_SEGtest\bin\Debug\7_SEG.pdb
+C:\Users\olate\source\repos\7_SEGtest\7_SEGtest\obj\Debug\7_SEGtest.csprojAssemblyReference.cache
+C:\Users\olate\source\repos\7_SEGtest\7_SEGtest\obj\Debug\_7_SEGtest.Form1.resources
+C:\Users\olate\source\repos\7_SEGtest\7_SEGtest\obj\Debug\_7_SEGtest.Properties.Resources.resources
+C:\Users\olate\source\repos\7_SEGtest\7_SEGtest\obj\Debug\7_SEGtest.csproj.GenerateResource.cache
+C:\Users\olate\source\repos\7_SEGtest\7_SEGtest\obj\Debug\7_SEGtest.csproj.CopyComplete
+C:\Users\olate\source\repos\7_SEGtest\7_SEGtest\obj\Debug\7_SEGtest.exe
+C:\Users\olate\source\repos\7_SEGtest\7_SEGtest\obj\Debug\7_SEGtest.pdb
+C:\Users\olate\source\repos\7_SEGtest\7_SEGtest\obj\Debug\7_SEGtest.csproj.CoreCompileInputs.cache
